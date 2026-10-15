@@ -1,6 +1,6 @@
 """Tiny educational transaction-risk classifier. Not a real AML model."""
 
-THRESHOLD = 20_000
+THRESHOLD = 10_000
 
 
 def classify_transaction(amount):
