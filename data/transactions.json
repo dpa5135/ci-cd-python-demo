@@ -2,5 +2,6 @@
   {"id": "TX001", "amount": 500},
   {"id": "TX002", "amount": 15000},
   {"id": "TX003", "amount": 2500},
-  {"id": "TX004", "amount": 20000}
+  {"id": "TX004", "amount": 20000},
+  {"id": "TX005", "amount": 12000}
 ]
